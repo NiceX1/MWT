@@ -1,0 +1,16 @@
+header{
+    height: 50vh;
+    background-image: url("../img/faker.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+
+h1{
+    background-color: black;
+    color: white;
+    text-shadow: yellow 1px 1px;
+}
+
+.nav-link{
+    color: white;
+}
