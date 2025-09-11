@@ -45,10 +45,14 @@ h1{
 }
 
 .herobg{
+    display: block;
     width: 100%;
-    height: 100vh;
-    object-fit: cover;
+    height: auto;         /* preserves aspect ratio so the whole image is visible */
+    object-fit: contain;  /* optional; works if the element is an <img> */
+    object-position: center top;
     filter: brightness(50%);
+    position: relative;   /* remain in normal flow so it defines hero height */
+    z-index: 0;
 }
 
 .niceimg{
