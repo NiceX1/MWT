@@ -1,6 +1,6 @@
 .headermain{
     height: 50vh;
-    background-image: url("../img/faker.jpeg");
+    background-image: url("../img/tbhxx.png");
     background-size: cover;
     background-position: center;
 }
@@ -65,4 +65,9 @@ h1{
     margin-left: 10px;
     margin-right: 20px;
     float:left;
+
+}
+
+footer{
+    text-align: center;
 }
