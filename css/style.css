@@ -1,6 +1,6 @@
 .headermain{
     height: 50vh;
-    background-image: url("../img/faker.jpeg");
+    background-image: url("../img/tbhxx.png");
     background-size: cover;
     background-position: center;
 }
@@ -63,6 +63,7 @@ h1{
     float:left;
 }
 
-apád faszát{
-    color: red;
+footer{
+    text-align: center;
+    
 }
